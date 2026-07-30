@@ -43,6 +43,7 @@ myDictionary = {
     "name": "Mike",
     "age": 26,
     "favorite_color": "Purple",
+    "hobbies": ["coding", "gaming"],
 }
 
 print(myDictionary)

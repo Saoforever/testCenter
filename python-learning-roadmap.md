@@ -31,10 +31,10 @@ Build a script that takes a block of text (simulating a transcript) and:
 
 ## Phase 2: Data & Files
 **Topics & why they matter:**
-- [  ] Reading/writing files — needed to handle the uploaded file or output transcript
-- [  ] The `json` module — your existing JSON knowledge transfers directly; transcript output will likely be structured as JSON
-- [  ] Error handling (try/except) — critical once you're relying on external services (Whisper, translation) that can fail
-- [  ] Virtual environments & pip — needed before installing Whisper or any library
+- [ x ] Reading/writing files — needed to handle the uploaded file or output transcript
+- [ x ] The `json` module — your existing JSON knowledge transfers directly; transcript output will likely be structured as JSON
+- [ x ] Error handling (try/except) — critical once you're relying on external services (Whisper, translation) that can fail
+- [ x ] Virtual environments & pip — needed before installing Whisper or any library
 
 **Checkpoint — "File-Based Transcript Reader":**
 Read a plain text file line-by-line, convert it into a dictionary keyed by line number, and write the result out as a JSON file.

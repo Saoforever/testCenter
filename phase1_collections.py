@@ -1,3 +1,4 @@
+
 lucky_numbers = [42, 8, 15, 16, 23, 42]
 friends = ["Kevin", "Karen", "Jim", "Oscar", "Toby"]
 lucky_numbers.sort(reverse=True)

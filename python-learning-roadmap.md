@@ -39,18 +39,18 @@ Build a script that takes a block of text (simulating a transcript) and:
 **Checkpoint — "File-Based Transcript Reader":**
 Read a plain text file line-by-line, convert it into a dictionary keyed by line number, and write the result out as a JSON file.
 
----
+- [ x ]
 
 ## Phase 3: APIs & External Tools
 **Topics & why they matter:**
-- [  ] The `requests` library — how you'll call a translation API
-- [  ] Handling API responses — parsing what Whisper/translation services send back
-- [  ] Environment variables — keeping API keys out of your code (matters if this ends up public for the fellowship)
+- [ x ] The `requests` library — how you'll call a translation API
+- [ x ] Handling API responses — parsing what Whisper/translation services send back
+- [ x ] Environment variables — keeping API keys out of your code (matters if this ends up public for the fellowship)
 
 **Checkpoint — "Mini Translator Call":**
 Using `requests`, call a free translation API (e.g., a public LibreTranslate instance) with a short hardcoded sentence, print the translated result, and include try/except for when the call fails.
 
----
+- [ x ]
 
 ## Phase 4: Web Basics
 **Topics & why they matter:**
@@ -75,9 +75,9 @@ This phase has no new topics — it's where Phases 1-4 combine into the actual p
 ---
 
 ## Progress Tracker
-- [ ] Phase 1 complete
-- [ ] Phase 2 complete
-- [ ] Phase 3 complete
+- [ x ] Phase 1 complete
+- [ x ] Phase 2 complete
+- [ x ] Phase 3 complete
 - [ ] Phase 4 complete
 - [ ] Phase 5 / Main project complete
 

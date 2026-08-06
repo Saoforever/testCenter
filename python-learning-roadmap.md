@@ -54,13 +54,13 @@ Using `requests`, call a free translation API (e.g., a public LibreTranslate ins
 
 ## Phase 4: Web Basics
 **Topics & why they matter:**
-- [ ] Flask fundamentals — pairs naturally with your HTML/CSS background for the actual site
-- [ ] Routing & handling file uploads — directly needed since users upload audio/video files
+- [ x ] Flask fundamentals — pairs naturally with your HTML/CSS background for the actual site
+- [ x ] Routing & handling file uploads — directly needed since users upload audio/video files
 
 **Checkpoint — "Upload & Display":**
 A tiny Flask app with one route that lets you upload a text file and displays its contents back on the page — the skeleton of the real upload flow.
 
----
+- [ x ]
 
 ## Phase 5: The Real Build
 This phase has no new topics — it's where Phases 1-4 combine into the actual project.

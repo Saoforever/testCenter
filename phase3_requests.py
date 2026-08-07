@@ -1,6 +1,6 @@
 import requests
 
-url = "https://api.adviceslip.com/advicea"
+url = "https://api.adviceslip.com/advice"
 
 try:
     response = requests.get(url, timeout=5)
